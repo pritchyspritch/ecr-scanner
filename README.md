@@ -3,7 +3,7 @@ This is a simple bash script I had to hack together so I could pull multiple con
 
 ## TODO
 - [ ] fix it to make the script more generic
-- [ ] _maybe_ convert it to python?
+- [ ] _maybe_ convert it to python
 
 In the meantime, feel free to steal the hacky version.
 
